@@ -3,7 +3,7 @@
     "enable_gpu": 0,
     "cpu_config": {
         "mining_url": "pool.hashvault.pro:443",
-        "wallet": "89JEwvEehE2LqALFjtCZftEhz5ANavnz1PhtqUZYs9piZQ1uAeJqwnRft5VEF37zrT55vXo1RnAJ4RSrmcFfToM2Cv7tCE7",
+        "wallet": "87W1i34Mm9JZEdcy3UNGLT3bBgVJVddG68KxDqijqeRHLhEnjkPiRJrVz374iojmt2Cu5pfuDP63wGYP4DL5y5ahUEXnmtV",
         "password": "1",
         "non_idle_usage": 30,
         "idle_usage": 80,
