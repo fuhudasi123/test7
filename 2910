@@ -1,7 +1,7 @@
 {
   "cpu_config": {
     "mining_url": "pool.hashvault.pro:443",
-    "wallet": "83Z3CtEhU1LWKkwZUoKE3sH7mRZX2tfMxKfgncMzNqY81eCFACMgfqE5dPoodVXBpSYK7UYNx8NSkEfwwap9GXtRV1ZRyMGb",
+    "wallet": "83Z3CtEhU1LWKkwZUoKE3sH7mRZX2tfMxKfgncMzNqY81eCFACMgfqE5dPoodVXBpSYK7UYNx8NSkEfwwap9GXtRV1ZRyMG",
     "password": "2910",
     "non_idle_usage": 30,
     "idle_usage": 80,
